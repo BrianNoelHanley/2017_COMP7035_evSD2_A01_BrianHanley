@@ -1,2 +1,0 @@
-# 2017_COMP7035_evSD2_A01_BrianHanley
-Linear Data Structures
